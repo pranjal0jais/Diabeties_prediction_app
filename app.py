@@ -51,7 +51,7 @@ def main():
     
     # Links to social profiles
     st.markdown('### Connect with Pranjal Jais:')
-    st.markdown('[Instagram](https://instagram.com/pranjaljais)', unsafe_allow_html=True)
+    st.markdown('[Instagram](https://www.instagram.com/pranjaljais13/)', unsafe_allow_html=True)
     st.markdown('[GitHub](https://github.com/pranjal0jais)', unsafe_allow_html=True)
 
 # Entry point of the script
